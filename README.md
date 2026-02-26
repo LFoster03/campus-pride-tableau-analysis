@@ -14,10 +14,10 @@ Using Tableau, interactive dashboards and storyboards were created to explore ho
 ## Data Sources
 
 **Primary dataset:**
-Campus Pride Index — national benchmarking tool measuring LGBTQ-inclusive policies, programs, and practices at colleges and universities.
+Campus Pride Index — national benchmarking tool measuring LGBTQ+ inclusive policies, programs, and practices at colleges and universities.
 
 **Additional dataset:**
-Municipal Equality Index (MEI) / State-level LGBTQ policy tally, measuring statewide legal protections and policies affecting LGBTQ individuals.
+Municipal Equality Index (MEI) / State-level LGBTQ+ policy tally, measuring statewide legal protections and policies affecting LGBTQ+ individuals.
 
 **Domain:** Higher education, LGBTQ inclusion, and institutional policy analysis.
 
@@ -33,15 +33,11 @@ Campus-level variables:
 * Community type (urban, suburban, rural, etc.)
 * Degree levels offered
 * Minority-serving institution indicators (HBCU, Hispanic-serving, AAPI-serving, etc.)
-
-State-level variables:
-
-* State abbreviation
-* State LGBTQ policy tally score
+* MEI Rating (0-49)
 
 Approximate dataset size:
 
-* ~238 campuses
+* 238 campuses
 * Multiple institutional and geographic attributes
 
 ---
@@ -82,7 +78,7 @@ https://github.com/
 
 ### Goal 1: State Policy Environment vs. Campus Inclusion
 
-A choropleth map compared campus Pride Index ratings with state-level LGBTQ policy scores. Many campuses maintain high inclusion ratings even in states with fewer legal protections, suggesting institutional policies may operate independently from state law.
+A choropleth map compared campus Pride Index ratings with state-level LGBTQ+ MEI policy scores. Many campuses maintain high inclusion ratings even in states with fewer legal protections, suggesting institutional policies may operate independently from state law.
 
 ### Goal 2: Degree Level and Inclusion Ratings
 
@@ -90,7 +86,7 @@ Box plots showed that doctoral and baccalaureate institutions generally have hig
 
 ### Goal 3: Minority-Serving Institutions
 
-Bar charts showed minority-serving campuses have inclusion ratings comparable to or slightly higher than non-minority-serving campuses, demonstrating strong LGBTQ support across diverse institutional missions.
+Bar charts showed minority-serving campuses have inclusion ratings comparable to or slightly higher than non-minority-serving campuses, demonstrating strong LGBTQ+ support across diverse institutions.
 
 ### Goal 4: Community Type and Inclusion
 
@@ -108,7 +104,7 @@ A quadrant scatter plot showed that both small and large campuses can achieve hi
 
 ## Conclusions
 
-Overall, LGBTQ inclusion is strong across many U.S. colleges and universities, regardless of institutional size or location. Doctoral institutions, urban campuses, and public universities tend to show the most consistent inclusion ratings. Minority-serving institutions perform equally well compared to other campuses, demonstrating strong inclusive environments across diverse student populations.
+Overall, LGBTQ+ inclusion is strong across many U.S. colleges and universities. Doctoral institutions, urban campuses, and public universities tend to show the most consistent inclusion ratings. Minority-serving institutions perform equally well compared to other campuses, demonstrating strong inclusive environments across diverse student populations.
 
 While many campuses show strong performance, smaller and rural institutions display greater variability, suggesting opportunities for targeted inclusion initiatives.
 
@@ -118,9 +114,9 @@ These findings highlight the importance of institutional leadership and policy i
 
 ## Repository Contents
 
-* campus_pride_analysis.twbx — Tableau packaged workbook
-* cleaned_dataset.xlsx — cleaned dataset used for analysis (optional)
-* screenshots/ — dashboard screenshots (optional)
+* Foster_Final_CampusPrideIndexRating.twbx — Tableau packaged workbook
+* Campus Pride Index with MEI.xlsx — cleaned dataset used for analysis
+* screenshots/ — dashboard screenshots
 * README.md — project documentation
 
 ---
