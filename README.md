@@ -15,9 +15,11 @@ Using Tableau, interactive dashboards and storyboards were created to explore ho
 
 **Primary dataset:**
 Campus Pride Index — national benchmarking tool measuring LGBTQ+ inclusive policies, programs, and practices at colleges and universities.
+[Campus Pride Dataset Link](https://www.kaggle.com/datasets/joebeachcapital/campus-pride-index)
 
 **Additional dataset:**
 Municipal Equality Index (MEI) / State-level LGBTQ+ policy tally, measuring statewide legal protections and policies affecting LGBTQ+ individuals.
+[MEI Dataset Link](https://gist.github.com/gelicia/7723849#file-meidata-csv)
 
 **Domain:** Higher education, LGBTQ inclusion, and institutional policy analysis.
 
